@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to [Your App Name] (“we”, “our”, “us”)! Our Privacy Policy explains how we handle information when you use our application.
+Welcome to Calc with Voice Output! Our Privacy Policy explains how we handle information when you use our application.
 
 ## Information Collection and Use
 
